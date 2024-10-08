@@ -30,9 +30,7 @@
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.scanchecker">
         <img src="https://play-lh.googleusercontent.com/-MdH2fLdN-C-EPnZLE2X6dGELP4v0pyG32nrlcd8uft-r4mNAAM-ccSp4PZcrJAjxi0=s256-rw" alt="ScanChecker" width="200" />
       </a>
-    </td>    
-  </tr>
-  <tr>
+    </td>      
       <td>
         <a href="https://play.google.com/store/apps/details?id=com.pixelogic.kraepelinkorantest">
           <img src="https://play-lh.googleusercontent.com/Sk6ifWaw4aIQZvkOL1_hPi78zHrR_1hylBfzo2b62RktYPiUO6lAB8Ky67xA5TmMWto=w240-h480-rw" alt="Kraepelin Koran Test" width="200" />
