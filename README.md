@@ -41,6 +41,11 @@
           <img src="https://play-lh.googleusercontent.com/jTtg4qCN_soYmgENEVWxzqxd3YALs5X4lGoyZhatEd0Bfmdmzj282VBm2d8Xyzpgfmlo=w240-h480-rw" alt="PixelStory" width="200" />
         </a>
       </td>
+    <td>
+        <a href="https://play.google.com/store/apps/details?id=com.pixelogic.enneagramtest">
+          <img src="https://play-lh.googleusercontent.com/-WiID2bQcCHAn6xdDaKBYoPtgVMm7Iv9Ab094uhYq5O36UB3eiDRbAuf6oGhzBMsCDY=w240-h480-rw" alt="Enneagram Test" width="200" />
+        </a>
+      </td>
   </tr>
 </table>
 </section>       
