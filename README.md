@@ -56,6 +56,11 @@
       </a>
     </td>        
     <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.sudokuwu">
+        <img src="https://play-lh.googleusercontent.com/RNCaNozuakpn9g68nBBp8guiBGgKAaGrkOtSLcU6jklIk1ZndRuG3MC0CzxwaoGAxGGT=w240-h480-rw" alt="Enneagram Test" width="200" />
+      </a>
+    </td>
+    <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.enneagramtest">
         <img src="https://play-lh.googleusercontent.com/-WiID2bQcCHAn6xdDaKBYoPtgVMm7Iv9Ab094uhYq5O36UB3eiDRbAuf6oGhzBMsCDY=w240-h480-rw" alt="Enneagram Test" width="200" />
       </a>
