@@ -12,6 +12,11 @@
   <p align="center">
       <img src="https://komarev.com/ghpvc/?username=jamescfabrianes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter for jamescfabrianes" />
   </p>      
+  <p align="center">
+    <a href="https://app.daily.dev/jameschristianfabrianes">
+      <img src="https://api.daily.dev/devcards/v2/9EOZP6mxxJ2UIwuqWZa9P.png?r=pdp&type=default" width="356" alt="James Christian Fabrianes's Dev Card"/>
+    </a>
+  </p>
   <!-- Creations -->
   <h1 align="center"><a href="https://l0gicman.web.app/" target="_blank">Creations</a></h1>  
   <table align="center">
