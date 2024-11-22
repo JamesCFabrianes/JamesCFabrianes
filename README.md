@@ -24,6 +24,11 @@
   <table align="center">
   <tr>
     <td>
+      <a href="https://pixelogiclab.web.app/">
+        <img src="https://play-lh.googleusercontent.com/FXjgpu0RCjr0iF0McH2oDNFWNen2dRcMC969RL6lHr19CYPLne-2-n2JxFCMX5y31A=s94-rw" alt="PixeLogic" width="200" />
+      </a>
+    </td>
+    <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.livinginthedarkwoods">
         <img src="https://play-lh.googleusercontent.com/hGqXU_An1GD5eARX1Ntflmfm60-FhsnaGpgZcFln_xI3-HWAfGf-jTRPVjMSOR3EDD8R=w240-h480-rw" alt="Living in The Dark Woods" width="200" />
       </a>
@@ -45,6 +50,11 @@
     </td>
   </tr>
   <tr>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.twonerdsgames">
+        <img src="https://play-lh.googleusercontent.com/j014FgRRtYG8P-H_yGBo9IcBorIfrmQuiJ5f7N78jqly0TXggMwriXQNqBV7-uBoKg=w240-h480-rw" alt="2 Nerds Games" width="200" />
+      </a>
+    </td>    
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.scanchecker">
         <img src="https://play-lh.googleusercontent.com/-MdH2fLdN-C-EPnZLE2X6dGELP4v0pyG32nrlcd8uft-r4mNAAM-ccSp4PZcrJAjxi0=s256-rw" alt="ScanChecker" width="200" />
