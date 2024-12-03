@@ -22,12 +22,7 @@
   <!-- Creations -->
   <h1 align="center"><a href="https://l0gicman.web.app/" target="_blank">Creations</a></h1>  
   <table align="center">
-  <tr>
-    <td>
-      <a href="https://pixelogiclab.web.app/">
-        <img src="https://play-lh.googleusercontent.com/FXjgpu0RCjr0iF0McH2oDNFWNen2dRcMC969RL6lHr19CYPLne-2-n2JxFCMX5y31A=s94-rw" alt="PixeLogic" width="200" />
-      </a>
-    </td>
+  <tr>    
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.livinginthedarkwoods">
         <img src="https://play-lh.googleusercontent.com/hGqXU_An1GD5eARX1Ntflmfm60-FhsnaGpgZcFln_xI3-HWAfGf-jTRPVjMSOR3EDD8R=w240-h480-rw" alt="Living in The Dark Woods" width="200" />
@@ -48,18 +43,23 @@
         <img src="https://play-lh.googleusercontent.com/jTtg4qCN_soYmgENEVWxzqxd3YALs5X4lGoyZhatEd0Bfmdmzj282VBm2d8Xyzpgfmlo=w240-h480-rw" alt="PixelStory" width="200" />
       </a>
     </td>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.enneagramtest">
+        <img src="https://play-lh.googleusercontent.com/-WiID2bQcCHAn6xdDaKBYoPtgVMm7Iv9Ab094uhYq5O36UB3eiDRbAuf6oGhzBMsCDY=w240-h480-rw" alt="Enneagram Test" width="200" />
+      </a>
+    </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.twonerdsgames">
-        <img src="https://play-lh.googleusercontent.com/j014FgRRtYG8P-H_yGBo9IcBorIfrmQuiJ5f7N78jqly0TXggMwriXQNqBV7-uBoKg=w240-h480-rw" alt="2 Nerds Games" width="200" />
-      </a>
-    </td>    
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.scanchecker">
         <img src="https://play-lh.googleusercontent.com/-MdH2fLdN-C-EPnZLE2X6dGELP4v0pyG32nrlcd8uft-r4mNAAM-ccSp4PZcrJAjxi0=s256-rw" alt="ScanChecker" width="200" />
       </a>
-    </td>    
+    </td>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.twonerdsgames">
+        <img src="https://play-lh.googleusercontent.com/j014FgRRtYG8P-H_yGBo9IcBorIfrmQuiJ5f7N78jqly0TXggMwriXQNqBV7-uBoKg=w240-h480-rw" alt="2 Nerds Games" width="200" />
+      </a>
+    </td>        
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.kraepelinkorantest">
         <img src="https://play-lh.googleusercontent.com/Sk6ifWaw4aIQZvkOL1_hPi78zHrR_1hylBfzo2b62RktYPiUO6lAB8Ky67xA5TmMWto=w240-h480-rw" alt="Kraepelin Koran Test" width="200" />
@@ -69,10 +69,10 @@
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.sudokuwu">
         <img src="https://play-lh.googleusercontent.com/RNCaNozuakpn9g68nBBp8guiBGgKAaGrkOtSLcU6jklIk1ZndRuG3MC0CzxwaoGAxGGT=w240-h480-rw" alt="Enneagram Test" width="200" />
       </a>
-    </td>
+    </td>    
     <td>
-      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.enneagramtest">
-        <img src="https://play-lh.googleusercontent.com/-WiID2bQcCHAn6xdDaKBYoPtgVMm7Iv9Ab094uhYq5O36UB3eiDRbAuf6oGhzBMsCDY=w240-h480-rw" alt="Enneagram Test" width="200" />
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.paintzzle">
+        <img src="https://play-lh.googleusercontent.com/dUo1ySs9kqHqmO1jGg74JlDhT7I822c8I-4AR2NiIkK6vi-p8H7y0dc_AICUJSIu6w=w240-h480-rw" alt="Paintzzle" width="200" />
       </a>
     </td>
   </tr>
