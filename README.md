@@ -114,6 +114,9 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/>
   </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=512&id=1BC75jFEBED6&format=png" alt="dotnet" width="40" height="40"/>
+  </a>
 </p>
 
 <!-- Programming Languages -->
