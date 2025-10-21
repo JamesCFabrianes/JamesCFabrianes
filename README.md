@@ -24,6 +24,11 @@
   <table align="center">
   <tr>    
     <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.pixelogic">
+        <img src="https://play-lh.googleusercontent.com/RPfoF0M8eMul7us6UohbFSKGy6m0C-IxcklLS9cUVRGaUVa1pON7NYCCKfwqRBO8dQ=w240-h480-rw" alt="PixeLogic" width="200" />
+      </a>
+    </td>
+    <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.livinginthedarkwoods">
         <img src="https://play-lh.googleusercontent.com/hGqXU_An1GD5eARX1Ntflmfm60-FhsnaGpgZcFln_xI3-HWAfGf-jTRPVjMSOR3EDD8R=w240-h480-rw" alt="Living in The Dark Woods" width="200" />
       </a>
@@ -44,12 +49,17 @@
       </a>
     </td>
     <td>
-      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.enneagramtest">
-        <img src="https://play-lh.googleusercontent.com/-WiID2bQcCHAn6xdDaKBYoPtgVMm7Iv9Ab094uhYq5O36UB3eiDRbAuf6oGhzBMsCDY=w240-h480-rw" alt="Enneagram Test" width="200" />
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.mathmory">
+        <img src="https://play-lh.googleusercontent.com/LN7ow4wR0ZCzPKCAEYfY1wL5wWw2G05idB1n-EEWfFM-S4P_0enexI_SAB4PQc4OtjbwBSPGI4gpW134k6Hz=w240-h480-rw" alt="Mathmory" width="200" />
       </a>
     </td>
   </tr>
   <tr>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.enneagramtest">
+        <img src="https://play-lh.googleusercontent.com/-WiID2bQcCHAn6xdDaKBYoPtgVMm7Iv9Ab094uhYq5O36UB3eiDRbAuf6oGhzBMsCDY=w240-h480-rw" alt="Enneagram Test" width="200" />
+      </a>
+    </td>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.scanchecker">
         <img src="https://play-lh.googleusercontent.com/-MdH2fLdN-C-EPnZLE2X6dGELP4v0pyG32nrlcd8uft-r4mNAAM-ccSp4PZcrJAjxi0=s256-rw" alt="ScanChecker" width="200" />
