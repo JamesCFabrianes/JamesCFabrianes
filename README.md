@@ -20,7 +20,7 @@
     </a>
   </p> -->
   <!-- Creations -->
-  <h1 align="center"><a href="https://pixelogiclab.web.app/" target="_blank">PixeLogic Creations</a></h1>  
+  <h1 align="center"><a href="https://pixelogiclab.web.app/" target="_blank">PixeLogic</a></h1>  
   <table align="center">
   <tr>    
     <td>
