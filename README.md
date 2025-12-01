@@ -1,4 +1,4 @@
-r<h1 align="center"><a href="https://l0gicman.web.app/" target="_blank">Welcome</a></h1>  
+<h1 align="center"><a href="https://l0gicman.web.app/" target="_blank">Welcome</a></h1>  
 
 <!-- Opening GIF -->
 <section class="container">   
