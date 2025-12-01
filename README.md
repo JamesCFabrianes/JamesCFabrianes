@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://l0gicman.web.app/" target="_blank">Welcome</a></h1>  
+r<h1 align="center"><a href="https://l0gicman.web.app/" target="_blank">Welcome</a></h1>  
 
 <!-- Opening GIF -->
 <section class="container">   
@@ -13,7 +13,7 @@
   <!-- Visitor -->
   <p align="center">
       <img src="https://komarev.com/ghpvc/?username=jamescfabrianes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter for jamescfabrianes" />
-  </p>      
+  </p> 
 <!--   <p align="center">
     <a href="https://app.daily.dev/jameschristianfabrianes">
       <img src="https://api.daily.dev/devcards/v2/9EOZP6mxxJ2UIwuqWZa9P.png?r=pdp&type=default" width="356" alt="James Christian Fabrianes's Dev Card"/>
@@ -47,19 +47,36 @@
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.pixelstory">
         <img src="https://play-lh.googleusercontent.com/jTtg4qCN_soYmgENEVWxzqxd3YALs5X4lGoyZhatEd0Bfmdmzj282VBm2d8Xyzpgfmlo=w240-h480-rw" alt="PixelStory" width="200" />
       </a>
+    </td>      
+  </tr>
+  <tr>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.nerdcalculator">
+        <img src="https://play-lh.googleusercontent.com/_8mKv4HDE6TaRlQzDEE66HZMT0xtp8pj0_hIYmmCmizTOyrlohONwsFHFCMEyQzz3myzzNrIFBAS9u0_8H6DcDU=w240-h480-rw" alt="Nerd Calculator" width="200" />
+      </a>
+    </td>  
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.mathchess">
+        <img src="https://play-lh.googleusercontent.com/FtY2JJosttSwS0fetW8HXabBXiglVk87Daxi0lbsxDpcBRXdq3k-nUtj6Vp3TK3hocnWEM0mz02URyXi3XvVDg=w240-h480-rw" alt="MathChess" width="200" />
+      </a>
+    </td>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.codeloop">
+        <img src="https://play-lh.googleusercontent.com/LN7ow4wR0ZCzPKCAEYfY1wL5wWw2G05idB1n-EEWfFM-S4P_0enexI_SAB4PQc4OtjbwBSPGI4gpW134k6Hz=w240-h480-rw" alt="CodeLoop" width="200" />
+      </a>
     </td>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.mathmory">
         <img src="https://play-lh.googleusercontent.com/LN7ow4wR0ZCzPKCAEYfY1wL5wWw2G05idB1n-EEWfFM-S4P_0enexI_SAB4PQc4OtjbwBSPGI4gpW134k6Hz=w240-h480-rw" alt="Mathmory" width="200" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.enneagramtest">
         <img src="https://play-lh.googleusercontent.com/-WiID2bQcCHAn6xdDaKBYoPtgVMm7Iv9Ab094uhYq5O36UB3eiDRbAuf6oGhzBMsCDY=w240-h480-rw" alt="Enneagram Test" width="200" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.scanchecker">
         <img src="https://play-lh.googleusercontent.com/-MdH2fLdN-C-EPnZLE2X6dGELP4v0pyG32nrlcd8uft-r4mNAAM-ccSp4PZcrJAjxi0=s256-rw" alt="ScanChecker" width="200" />
