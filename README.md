@@ -62,7 +62,7 @@
     </td>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.codeloop">
-        <img src="https://play-lh.googleusercontent.com/LN7ow4wR0ZCzPKCAEYfY1wL5wWw2G05idB1n-EEWfFM-S4P_0enexI_SAB4PQc4OtjbwBSPGI4gpW134k6Hz=w240-h480-rw" alt="CodeLoop" width="200" />
+        <img src="https://play-lh.googleusercontent.com/ZGolmmgfccKTPvcugz20HlJ7F3nz_hjiHNDsRSEiaax7781Tq6gOXjaRAe7X9mk9N88g6K5GHdTGRVgieXhvJNY=w240-h480-rw" alt="CodeLoop" width="200" />
       </a>
     </td>
     <td>
