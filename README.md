@@ -79,7 +79,7 @@
     </td> 
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.headhunter">
-        <img src="https://play-lh.googleusercontent.com/_8mKv4HDE6TaRlQzDEE66HZMT0xtp8pj0_hIYmmCmizTOyrlohONwsFHFCMEyQzz3myzzNrIFBAS9u0_8H6DcDU=w240-h480-rw" alt="HeadHunter" width="200" />
+        <img src="https://play-lh.googleusercontent.com/zAWeWb1mDXOH1CODJY21G2KmjyOOcAVDiRsb4Ka2M02op2BEbaNIcax4Eo6EW5THH-FqCsijYR37I5iFs7S_8A=w240-h480-rw" alt="HeadHunter" width="200" />
       </a>
     </td>  
     <td>
