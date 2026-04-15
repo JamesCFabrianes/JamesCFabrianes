@@ -1,3 +1,4 @@
+---
 <h1 align="center"><a href="https://l0gicman.web.app/" target="_blank">Welcome</a></h1>  
 
 <!-- Opening GIF -->
@@ -20,6 +21,8 @@
     </a>
   </p> -->
   <!-- Creations -->
+  
+  ---
   <h1 align="center"><a href="https://pixelogiclab.web.app/" target="_blank">PixeLogic</a></h1>  
   <table align="center">
   <tr>    
@@ -120,6 +123,7 @@
 </p>   
 <br>-->
 <!-- Techs -->
+---
 <h1 align="center"><a href="https://l0gicman.web.app/" target="_blank">Techs</a></h1>  
 
 <!-- Frameworks -->
