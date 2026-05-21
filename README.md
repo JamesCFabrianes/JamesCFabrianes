@@ -52,13 +52,22 @@
       </a>
     </td>
     <td>
-  </tr>
-  <tr>    
-    <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.twonerdsgames">
         <img src="https://play-lh.googleusercontent.com/j014FgRRtYG8P-H_yGBo9IcBorIfrmQuiJ5f7N78jqly0TXggMwriXQNqBV7-uBoKg=w240-h480-rw" alt="2 Nerds Games" width="200" />
       </a>
     </td> 
+  </tr>
+  <tr>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.pixelstory">
+        <img src="https://play-lh.googleusercontent.com/jTtg4qCN_soYmgENEVWxzqxd3YALs5X4lGoyZhatEd0Bfmdmzj282VBm2d8Xyzpgfmlo=w240-h480-rw" alt="PixelStory" width="200" />
+      </a>
+    </td>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.headhunter">
+        <img src="https://play-lh.googleusercontent.com/zAWeWb1mDXOH1CODJY21G2KmjyOOcAVDiRsb4Ka2M02op2BEbaNIcax4Eo6EW5THH-FqCsijYR37I5iFs7S_8A=w240-h480-rw" alt="HeadHunter" width="200" />
+      </a>
+    </td>  
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.mathchess">
         <img src="https://play-lh.googleusercontent.com/FtY2JJosttSwS0fetW8HXabBXiglVk87Daxi0lbsxDpcBRXdq3k-nUtj6Vp3TK3hocnWEM0mz02URyXi3XvVDg=w240-h480-rw" alt="MathChess" width="200" />
@@ -81,21 +90,11 @@
     </td>
   </tr>
   <tr>
-     <td>
-      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.pixelstory">
-        <img src="https://play-lh.googleusercontent.com/jTtg4qCN_soYmgENEVWxzqxd3YALs5X4lGoyZhatEd0Bfmdmzj282VBm2d8Xyzpgfmlo=w240-h480-rw" alt="PixelStory" width="200" />
-      </a>
-    </td>        
-    <td>
-      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.headhunter">
-        <img src="https://play-lh.googleusercontent.com/zAWeWb1mDXOH1CODJY21G2KmjyOOcAVDiRsb4Ka2M02op2BEbaNIcax4Eo6EW5THH-FqCsijYR37I5iFs7S_8A=w240-h480-rw" alt="HeadHunter" width="200" />
-      </a>
-    </td>  
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.kraepelinkorantest">
         <img src="https://play-lh.googleusercontent.com/Sk6ifWaw4aIQZvkOL1_hPi78zHrR_1hylBfzo2b62RktYPiUO6lAB8Ky67xA5TmMWto=w240-h480-rw" alt="Kraepelin Koran Test" width="200" />
       </a>
-    </td>        
+    </td>  
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.sudokuwu">
         <img src="https://play-lh.googleusercontent.com/RNCaNozuakpn9g68nBBp8guiBGgKAaGrkOtSLcU6jklIk1ZndRuG3MC0CzxwaoGAxGGT=w240-h480-rw" alt="Enneagram Test" width="200" />
@@ -105,9 +104,7 @@
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.nerdcalculator">
         <img src="https://play-lh.googleusercontent.com/_8mKv4HDE6TaRlQzDEE66HZMT0xtp8pj0_hIYmmCmizTOyrlohONwsFHFCMEyQzz3myzzNrIFBAS9u0_8H6DcDU=w240-h480-rw" alt="Nerd Calculator" width="200" />
       </a>
-    </td>  
-  </tr>
-  <tr>
+    </td>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.scanchecker">
         <img src="https://play-lh.googleusercontent.com/-MdH2fLdN-C-EPnZLE2X6dGELP4v0pyG32nrlcd8uft-r4mNAAM-ccSp4PZcrJAjxi0=s256-rw" alt="ScanChecker" width="200" />
@@ -118,7 +115,7 @@
         <img src="https://play-lh.googleusercontent.com/dUo1ySs9kqHqmO1jGg74JlDhT7I822c8I-4AR2NiIkK6vi-p8H7y0dc_AICUJSIu6w=w240-h480-rw" alt="Paintzzle" width="200" />
       </a>
     </td>
-  </tr>
+  </tr>  
 </table>
 </section>       
 <br>
