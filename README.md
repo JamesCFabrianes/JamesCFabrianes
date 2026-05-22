@@ -97,7 +97,7 @@
     </td>  
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.sudokuwu">
-        <img src="https://play-lh.googleusercontent.com/RNCaNozuakpn9g68nBBp8guiBGgKAaGrkOtSLcU6jklIk1ZndRuG3MC0CzxwaoGAxGGT=w240-h480-rw" alt="Enneagram Test" width="200" />
+        <img src="https://play-lh.googleusercontent.com/63xQqBYYtt7a5Q6nghV9LDIyKdR12UMPX9sA1htNIFmIVUz1r_Ddl0mpGhGC6DPze4o1C--kqhufLj7BJrHwiZo=w240-h480-rw" alt="Enneagram Test" width="200" />
       </a>
     </td>
     <td>
