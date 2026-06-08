@@ -79,6 +79,18 @@
       </a>
     </td>
     <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.sudokuwu">
+        <img src="https://play-lh.googleusercontent.com/63xQqBYYtt7a5Q6nghV9LDIyKdR12UMPX9sA1htNIFmIVUz1r_Ddl0mpGhGC6DPze4o1C--kqhufLj7BJrHwiZo=w240-h480-rw" alt="Enneagram Test" width="200" />
+      </a>
+    </td>    
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.triforge">
+        <img src="https://play-lh.googleusercontent.com/eXNcbNKqEIjFhVUkWAcATOU_Mwr2Wo4gM1vC9mOxVffGzLwsgdwz7llroGGJh3K76bzxFFQB5noYeWejFRCdIw=w240-h480-rw" alt="Triforge" width="200" />
+      </a>
+    </td>    
+  </tr>
+  <tr>
+    <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.mathmory">
         <img src="https://play-lh.googleusercontent.com/LN7ow4wR0ZCzPKCAEYfY1wL5wWw2G05idB1n-EEWfFM-S4P_0enexI_SAB4PQc4OtjbwBSPGI4gpW134k6Hz=w240-h480-rw" alt="Mathmory" width="200" />
       </a>
@@ -88,16 +100,14 @@
         <img src="https://play-lh.googleusercontent.com/-WiID2bQcCHAn6xdDaKBYoPtgVMm7Iv9Ab094uhYq5O36UB3eiDRbAuf6oGhzBMsCDY=w240-h480-rw" alt="Enneagram Test" width="200" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.kraepelinkorantest">
         <img src="https://play-lh.googleusercontent.com/Sk6ifWaw4aIQZvkOL1_hPi78zHrR_1hylBfzo2b62RktYPiUO6lAB8Ky67xA5TmMWto=w240-h480-rw" alt="Kraepelin Koran Test" width="200" />
       </a>
-    </td>  
+    </td>
     <td>
-      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.sudokuwu">
-        <img src="https://play-lh.googleusercontent.com/63xQqBYYtt7a5Q6nghV9LDIyKdR12UMPX9sA1htNIFmIVUz1r_Ddl0mpGhGC6DPze4o1C--kqhufLj7BJrHwiZo=w240-h480-rw" alt="Enneagram Test" width="200" />
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.paintzzle">
+        <img src="https://play-lh.googleusercontent.com/dUo1ySs9kqHqmO1jGg74JlDhT7I822c8I-4AR2NiIkK6vi-p8H7y0dc_AICUJSIu6w=w240-h480-rw" alt="Paintzzle" width="200" />
       </a>
     </td>
     <td>
@@ -109,12 +119,7 @@
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.scanchecker">
         <img src="https://play-lh.googleusercontent.com/-MdH2fLdN-C-EPnZLE2X6dGELP4v0pyG32nrlcd8uft-r4mNAAM-ccSp4PZcrJAjxi0=s256-rw" alt="ScanChecker" width="200" />
       </a>
-    </td>
-    <td>
-      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.paintzzle">
-        <img src="https://play-lh.googleusercontent.com/dUo1ySs9kqHqmO1jGg74JlDhT7I822c8I-4AR2NiIkK6vi-p8H7y0dc_AICUJSIu6w=w240-h480-rw" alt="Paintzzle" width="200" />
-      </a>
-    </td>
+    </td>    
   </tr>  
 </table>
 </section>       
