@@ -56,13 +56,13 @@
         <img src="https://play-lh.googleusercontent.com/j014FgRRtYG8P-H_yGBo9IcBorIfrmQuiJ5f7N78jqly0TXggMwriXQNqBV7-uBoKg=w240-h480-rw" alt="2 Nerds Games" width="200" />
       </a>
     </td> 
-  </tr>
-  <tr>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.pixelstory">
         <img src="https://play-lh.googleusercontent.com/jTtg4qCN_soYmgENEVWxzqxd3YALs5X4lGoyZhatEd0Bfmdmzj282VBm2d8Xyzpgfmlo=w240-h480-rw" alt="PixelStory" width="200" />
       </a>
     </td>
+  </tr>
+  <tr>    
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.headhunter">
         <img src="https://play-lh.googleusercontent.com/zAWeWb1mDXOH1CODJY21G2KmjyOOcAVDiRsb4Ka2M02op2BEbaNIcax4Eo6EW5THH-FqCsijYR37I5iFs7S_8A=w240-h480-rw" alt="HeadHunter" width="200" />
@@ -72,12 +72,7 @@
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.mathchess">
         <img src="https://play-lh.googleusercontent.com/FtY2JJosttSwS0fetW8HXabBXiglVk87Daxi0lbsxDpcBRXdq3k-nUtj6Vp3TK3hocnWEM0mz02URyXi3XvVDg=w240-h480-rw" alt="MathChess" width="200" />
       </a>
-    </td>
-    <td>
-      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.codeloop">
-        <img src="https://play-lh.googleusercontent.com/ZGolmmgfccKTPvcugz20HlJ7F3nz_hjiHNDsRSEiaax7781Tq6gOXjaRAe7X9mk9N88g6K5GHdTGRVgieXhvJNY=w240-h480-rw" alt="CodeLoop" width="200" />
-      </a>
-    </td>
+    </td>    
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.sudokuwu">
         <img src="https://play-lh.googleusercontent.com/63xQqBYYtt7a5Q6nghV9LDIyKdR12UMPX9sA1htNIFmIVUz1r_Ddl0mpGhGC6DPze4o1C--kqhufLj7BJrHwiZo=w240-h480-rw" alt="Enneagram Test" width="200" />
@@ -87,12 +82,27 @@
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.triforge">
         <img src="https://play-lh.googleusercontent.com/eXNcbNKqEIjFhVUkWAcATOU_Mwr2Wo4gM1vC9mOxVffGzLwsgdwz7llroGGJh3K76bzxFFQB5noYeWejFRCdIw=w240-h480-rw" alt="Triforge" width="200" />
       </a>
-    </td>    
-  </tr>
-  <tr>
+    </td>
+     <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.shotgunroulette">
+        <img src="https://play-lh.googleusercontent.com/4UbENArH33k4XTjOcds4hA3pngYvaknFekt2eVxkRCgaIv68tYuARIx3y9YFZGIZMF01EdhSTpL-g0Uw0YUrjS8=w240-h480-rw" alt="Shotgun Roulette Offline" width="200" />
+      </a>
+    </td>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.mathmory">
         <img src="https://play-lh.googleusercontent.com/LN7ow4wR0ZCzPKCAEYfY1wL5wWw2G05idB1n-EEWfFM-S4P_0enexI_SAB4PQc4OtjbwBSPGI4gpW134k6Hz=w240-h480-rw" alt="Mathmory" width="200" />
+      </a>
+    </td>
+     <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.hexagonmemory">
+        <img src="https://play-lh.googleusercontent.com/8Z4GTMyTU9G7k8kdymn2uGFRSCkw3kSbTJdjipNMJPLqb0iC67Twj9n-2WwNmhD-_4v4MGv8jmK5bFCOtiXpFcg=w240-h480-rw" alt="Hexagon Memory" width="200" />
+      </a>
+    </td>
+  </tr>
+  <tr>    
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.codeloop">
+        <img src="https://play-lh.googleusercontent.com/ZGolmmgfccKTPvcugz20HlJ7F3nz_hjiHNDsRSEiaax7781Tq6gOXjaRAe7X9mk9N88g6K5GHdTGRVgieXhvJNY=w240-h480-rw" alt="CodeLoop" width="200" />
       </a>
     </td>
     <td>
@@ -103,6 +113,11 @@
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.kraepelinkorantest">
         <img src="https://play-lh.googleusercontent.com/Sk6ifWaw4aIQZvkOL1_hPi78zHrR_1hylBfzo2b62RktYPiUO6lAB8Ky67xA5TmMWto=w240-h480-rw" alt="Kraepelin Koran Test" width="200" />
+      </a>
+    </td>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.disctest">
+        <img src="https://play-lh.googleusercontent.com/5fHwRDR93aA7e4qTioo2uT_qGI3uiCmuX7fIUbzBsRKyGywfpkk2vBIMtaIVeEkBdpYq3X14_dLKko0PL5tTbg=w240-h480-rw" alt="Kraepelin Koran Test" width="200" />
       </a>
     </td>
     <td>
