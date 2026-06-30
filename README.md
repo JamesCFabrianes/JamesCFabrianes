@@ -25,12 +25,20 @@
   ---
   <h1 align="center"><a href="https://pixelogiclab.web.app/" target="_blank">PixeLogic</a></h1>  
   <table align="center">
-  <tr>    
-    <td>
+  <tr>
+    <td></td>        
+    <td></td>       
+    <td></td>       
+     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.pixelogic">
-        <img src="https://play-lh.googleusercontent.com/RPfoF0M8eMul7us6UohbFSKGy6m0C-IxcklLS9cUVRGaUVa1pON7NYCCKfwqRBO8dQ=w240-h480-rw" alt="PixeLogic" width="200" />
+        <img src="https://play-lh.googleusercontent.com/gwfQyRPvl-3t-F5YunRqyEkX2OtyjPc7azNjFe0dIZ8e0olbBBSRcnUS7EAnTz-UOTREhex27E-LlW0JOtpe=w240-h480-rw" alt="PixeLogic" width="200" />
       </a>
     </td>
+    <td></td>        
+    <td></td>       
+    <td></td>       
+  </tr>
+  <tr>       
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.livinginthedarkwoods">
         <img src="https://play-lh.googleusercontent.com/hGqXU_An1GD5eARX1Ntflmfm60-FhsnaGpgZcFln_xI3-HWAfGf-jTRPVjMSOR3EDD8R=w240-h480-rw" alt="Living in The Dark Woods" width="200" />
@@ -61,7 +69,12 @@
         <img src="https://play-lh.googleusercontent.com/jTtg4qCN_soYmgENEVWxzqxd3YALs5X4lGoyZhatEd0Bfmdmzj282VBm2d8Xyzpgfmlo=w240-h480-rw" alt="PixelStory" width="200" />
       </a>
     </td>
-  </tr>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.scanchecker">
+        <img src="https://play-lh.googleusercontent.com/-MdH2fLdN-C-EPnZLE2X6dGELP4v0pyG32nrlcd8uft-r4mNAAM-ccSp4PZcrJAjxi0=s256-rw" alt="ScanChecker" width="200" />
+      </a>
+    </td>   
+  </tr>    
   <tr>    
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.headhunter">
@@ -131,8 +144,8 @@
       </a>
     </td>
     <td>
-      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.scanchecker">
-        <img src="https://play-lh.googleusercontent.com/-MdH2fLdN-C-EPnZLE2X6dGELP4v0pyG32nrlcd8uft-r4mNAAM-ccSp4PZcrJAjxi0=s256-rw" alt="ScanChecker" width="200" />
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.kasirnesia">
+        <img src="https://play-lh.googleusercontent.com/jRX7UXLxNk7--1bB7nRKTs2isCNsqADR0W8aH8L3ShqoxDvVYqzakb5HvH5ZKwpldZOAv8gxKZAfP-OnUR2GqA=w240-h480-rw" alt="ScanChecker" width="200" />
       </a>
     </td>    
   </tr>  
