@@ -159,11 +159,10 @@
 </p>   
 <br>-->
 <!-- Techs -->
----
-<h1 align="center"><a href="https://l0gicman.web.app/" target="_blank">Techs</a></h1>  
+<!-- <h1 align="center"><a href="https://l0gicman.web.app/" target="_blank">Techs</a></h1>   -->
 
 <!-- Frameworks -->
-<p align="center">  
+<!-- <p align="center">  
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"/>
   </a>
@@ -191,10 +190,10 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=512&id=1BC75jFEBED6&format=png" alt="dotnet" width="40"/>
   </a>
-</p>
+</p> -->
 
 <!-- Programming Languages -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40"/>
   </a>
@@ -222,10 +221,10 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"/>
   </a>
-</p>
+</p> -->
 
 <!-- Tools -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40"/>
   </a>
@@ -271,10 +270,10 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"/>
   </a>
-</p>
+</p> -->
 
 <!-- AI/ML Libraries -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"/>
   </a>
@@ -287,10 +286,10 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"/>
   </a>
-</p>
+</p> -->
 
 <!-- Game Dev Libraries -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/200px-Unity_2021.svg.png" alt="Unity" width="100"/></a>
   <a href="https://www.rpgmakerweb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/5efc0159f9a97ba05a8b2902/5f2938eda3e9bd25724fcb6e_rpg-maker-logo.svg" alt="RPG Maker" width="40"/></a>
-</p>
+</p> -->
