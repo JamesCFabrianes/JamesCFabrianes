@@ -65,8 +65,8 @@
       </a>
     </td> 
     <td>
-      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.pixelstory">
-        <img src="https://play-lh.googleusercontent.com/jTtg4qCN_soYmgENEVWxzqxd3YALs5X4lGoyZhatEd0Bfmdmzj282VBm2d8Xyzpgfmlo=w240-h480-rw" alt="PixelStory" width="200" />
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.pixelbook">
+        <img src="https://play-lh.googleusercontent.com/jTtg4qCN_soYmgENEVWxzqxd3YALs5X4lGoyZhatEd0Bfmdmzj282VBm2d8Xyzpgfmlo=w240-h480-rw" alt="PixelBook" width="200" />
       </a>
     </td>
     <td>
