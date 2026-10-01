@@ -34,11 +34,21 @@
         <img src="https://play-lh.googleusercontent.com/gwfQyRPvl-3t-F5YunRqyEkX2OtyjPc7azNjFe0dIZ8e0olbBBSRcnUS7EAnTz-UOTREhex27E-LlW0JOtpe=w240-h480-rw" alt="PixeLogic" width="200" />
       </a>
     </td>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.pixelogic">
+        <img src="https://play-lh.googleusercontent.com/gwfQyRPvl-3t-F5YunRqyEkX2OtyjPc7azNjFe0dIZ8e0olbBBSRcnUS7EAnTz-UOTREhex27E-LlW0JOtpe=w240-h480-rw" alt="PixeLogic" width="200" />
+      </a>
+    </td>
     <td></td>        
     <td></td>       
     <td></td>       
   </tr>
-  <tr>       
+  <tr>    
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.frogofwar">
+        <img src="https://play-lh.googleusercontent.com/yHVVTJG0rUpSvCWCA9teUPFkvHHC2c9rD9hoUBTKPu9N81Vcf4SO7Vskqnade8nj9_9CBEZ_nYMm4LurGfA8jA=w240-h480-rw" alt="Frog of War" width="200" />
+      </a>
+    </td>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.livinginthedarkwoods">
         <img src="https://play-lh.googleusercontent.com/hGqXU_An1GD5eARX1Ntflmfm60-FhsnaGpgZcFln_xI3-HWAfGf-jTRPVjMSOR3EDD8R=w240-h480-rw" alt="Living in The Dark Woods" width="200" />
@@ -111,13 +121,13 @@
         <img src="https://play-lh.googleusercontent.com/8Z4GTMyTU9G7k8kdymn2uGFRSCkw3kSbTJdjipNMJPLqb0iC67Twj9n-2WwNmhD-_4v4MGv8jmK5bFCOtiXpFcg=w240-h480-rw" alt="Hexagon Memory" width="200" />
       </a>
     </td>
-  </tr>
-  <tr>    
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.codeloop">
         <img src="https://play-lh.googleusercontent.com/ZGolmmgfccKTPvcugz20HlJ7F3nz_hjiHNDsRSEiaax7781Tq6gOXjaRAe7X9mk9N88g6K5GHdTGRVgieXhvJNY=w240-h480-rw" alt="CodeLoop" width="200" />
       </a>
     </td>
+  </tr>
+  <tr>        
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.enneagramtest">
         <img src="https://play-lh.googleusercontent.com/-WiID2bQcCHAn6xdDaKBYoPtgVMm7Iv9Ab094uhYq5O36UB3eiDRbAuf6oGhzBMsCDY=w240-h480-rw" alt="Enneagram Test" width="200" />
@@ -147,7 +157,17 @@
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.kasirnesia">
         <img src="https://play-lh.googleusercontent.com/jRX7UXLxNk7--1bB7nRKTs2isCNsqADR0W8aH8L3ShqoxDvVYqzakb5HvH5ZKwpldZOAv8gxKZAfP-OnUR2GqA=w240-h480-rw" alt="ScanChecker" width="200" />
       </a>
-    </td>    
+    </td>  
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.doarosario">
+        <img src="https://play-lh.googleusercontent.com/7JFFC5u8ohPQoKub5Qz9XIgV3t-iRjpOutoCYag735aPKasfAh-kgbfEpSHhV9dFmLUsCD5XkButW8ig48f1Nw=w240-h480-rw" alt="DoaRosario" width="200" />
+      </a>
+    </td>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.katekumenkatolik">
+        <img src="https://play-lh.googleusercontent.com/uujf3fYmpgfVhJaTg-RDHsAvw5ImAYXJAt14FIFQ6uhuK2hthGEyFAKBfPNLCT5wlnuMWTm5InGeA3_C58n56r4=w240-h480-rw" alt="CodeLoop" width="200" />
+      </a>
+    </td>
   </tr>  
 </table>
 </section>       
