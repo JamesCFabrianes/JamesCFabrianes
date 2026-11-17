@@ -23,26 +23,12 @@
   <!-- Creations -->
   
   ---
-  <h1 align="center"><a href="https://pixelogiclab.web.app/" target="_blank">PixeLogic</a></h1>  
+  <p align="center">
+    <a href="https://pixelogiclab.web.app/">
+        <img src="https://play-lh.googleusercontent.com/gwfQyRPvl-3t-F5YunRqyEkX2OtyjPc7azNjFe0dIZ8e0olbBBSRcnUS7EAnTz-UOTREhex27E-LlW0JOtpe=w240-h480-rw" alt="PixeLogic" width="200" />
+      </a>
+  </p>  
   <table align="center">
-  <tr>
-    <td></td>        
-    <td></td>       
-    <td></td>       
-     <td>
-      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.pixelogic">
-        <img src="https://play-lh.googleusercontent.com/gwfQyRPvl-3t-F5YunRqyEkX2OtyjPc7azNjFe0dIZ8e0olbBBSRcnUS7EAnTz-UOTREhex27E-LlW0JOtpe=w240-h480-rw" alt="PixeLogic" width="200" />
-      </a>
-    </td>
-    <td>
-      <a href="https://play.google.com/store/apps/details?id=com.pixelogic.pixelogic">
-        <img src="https://play-lh.googleusercontent.com/gwfQyRPvl-3t-F5YunRqyEkX2OtyjPc7azNjFe0dIZ8e0olbBBSRcnUS7EAnTz-UOTREhex27E-LlW0JOtpe=w240-h480-rw" alt="PixeLogic" width="200" />
-      </a>
-    </td>
-    <td></td>        
-    <td></td>       
-    <td></td>       
-  </tr>
   <tr>    
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.pixelogic.frogofwar">
